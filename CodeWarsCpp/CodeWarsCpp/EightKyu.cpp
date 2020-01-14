@@ -18,7 +18,6 @@ namespace CodeWarsCpp
         }
 
         std::vector<int> result;
-        result.begin();
         while (!sd.empty())
         {
             int digit = sd.top();
