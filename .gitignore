@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+CodeWarsCpp/.vs
+CodeWarsCpp/CodeWarsCpp/x64
+CodeWarsCpp/x64
+CodeWarsCppTests/x64
